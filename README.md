@@ -1,4 +1,6 @@
-# Silicon spin qubit QEC survey
+# Silicon spin qubit QEC survey[^1]
+
+[^1]: [website](https://marcosj.github.io/qdot/)
 
 <details><summary><big>Experimentalists</big></summary>
   
