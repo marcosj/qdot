@@ -1,8 +1,9 @@
 lsi: false
 safe: true
-source: /qdot
+source: /
 incremental: false
 highlighter: rouge
+markdown: kramdown
 gist:
   noscript: false
 kramdown:
