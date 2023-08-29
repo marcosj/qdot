@@ -111,12 +111,55 @@
 
 - <details><summary>Menno Veldhorst (Delft)</summary>
 
-	&emsp;[scholar](https://scholar.google.com/citations?user=jTPeVAEAAAAJ)
+	&emsp;[arXiv](https://arxiv.org/search/cond-mat?query=M.+Veldhorst&searchtype=author)
+	&emsp;[scholar](https://www.semanticscholar.org/author/M.-Veldhorst/40566907?sort=pub-date)
+	&emsp;[scholar](https://scholar.google.com/citations?user=I79s7rMAAAAJ&sortby=pubdate)
 	&emsp;[ORCID](https://orcid.org/0000-0001-9730-3523)
 
 	year | title | DOI | pdf | ppt
 	--- | --- | --- | --- | ---
-	2020 | title | [DOI](url) | <a href="https://arxiv.org/pdf/doi" target="_blank">pdf</a>
+	2023 | Germanium wafers for strained quantum wells with low disorder | [arXiv](https://arxiv.org/abs/2305.08971) | <a href="https://arxiv.org/pdf/2305.08971">pdf</a>
+	2023 | Coherent spin qubit shuttling through germanium quantum dots | [arXiv](https://arxiv.org/abs/2308.02406) | <a href="https://arxiv.org/pdf/2308.02406">pdf</a>
+	2023 | Bichromatic Rabi control of semiconductor qubits | [arXiv](https://arxiv.org/abs/2308.01720) | <a href="https://arxiv.org/pdf/2308.01720">pdf</a>
+	2023 | Simultaneous single-qubit driving of semiconductor spin qubits at the fault-tolerant threshold | [arXiv](https://arxiv.org/abs/2109.07837) [DOI](https://doi.org/10.1038/s41467-023-39334-3) | <a href="https://arxiv.org/pdf/2109.07837">pdf</a>
+	2023 | Exciton transport in a germanium quantum dot ladder | [arXiv](https://arxiv.org/abs/2307.02401) | <a href="https://arxiv.org/pdf/2307.02401">pdf</a>
+	2023 | Electrical operation of planar Ge hole spin qubits in an in-plane magnetic field | [arXiv](https://arxiv.org/abs/2307.01451) | <a href="https://arxiv.org/pdf/2307.01451">pdf</a>
+	2023 | A 2D quantum dot array in planar <sup>28</sup>Si/SiGe | [arXiv](https://arxiv.org/abs/2305.19681) | <a href="https://arxiv.org/pdf/2305.19681">pdf</a>
+	2023 | A vertical gate-defined double quantum dot in a strained germanium double quantum well | [arXiv](https://arxiv.org/abs/2305.14064) | <a href="https://arxiv.org/pdf/2305.14064">pdf</a>
+	2022 | Hard superconducting gap in germanium | [arXiv](https://arxiv.org/abs/2206.00569) [DOI](https://doi.org/10.1038/s43246-023-00351-w) | <a href="https://arxiv.org/pdf/2206.00569">pdf</a>
+	2022 | Electrical control of uniformity in quantum dot devices | [arXiv](https://arxiv.org/abs/2211.13493) [DOI](https://doi.org/10.1021/acs.nanolett.2c04446) | <a href="https://arxiv.org/pdf/2211.13493">pdf</a>
+	2022 | Shared control of a 16 semiconductor quantum dot crossbar array | [arXiv](https://arxiv.org/abs/2209.06609) | <a href="https://arxiv.org/pdf/2209.06609">pdf</a>
+	2022 | Spiderweb array: A sparse spin-qubit array | [arXiv](https://arxiv.org/abs/2110.00189) [DOI](https://doi.org/10.1103/PhysRevApplied.18.024053) | <a href="https://arxiv.org/pdf/2110.00189">pdf</a>
+	2022 | Probing resonating valence bonds on a programmable germanium quantum simulator | [arXiv](https://arxiv.org/abs/2208.11505) [DOI](https://doi.org/10.1038/s41534-023-00727-3) | <a href="https://arxiv.org/pdf/2208.11505">pdf</a>
+	2022 | Modelling of planar germanium hole qubits in electric and magnetic fields | [arXiv](https://arxiv.org/abs/2208.04795) | <a href="https://arxiv.org/pdf/2208.04795">pdf</a>
+	2022 | Phase flip code with semiconductor spin qubits | [arXiv](https://arxiv.org/abs/2202.11530) [DOI](https://www.nature.com/articles/s41534-022-00639-8) | <a href="https://arxiv.org/pdf/2202.11530">pdf</a> | <a href="ppt/2202.11530.html" target="_blank">ppt</a>
+	2022 | Universal control of a six-qubit quantum processor in silicon | [arXiv](https://arxiv.org/abs/2202.09252) [DOI](https://doi.org/10.1038/s41586-022-05117-x) | <a href="https://arxiv.org/pdf/2202.09252">pdf</a>
+	2022 | A quantum dot crossbar with sublinear scaling of interconnects at cryogenic temperature | [arXiv](https://arxiv.org/abs/2202.04482) | <a href="https://arxiv.org/pdf/2202.04482">pdf</a>
+	2022 | Lightly-strained germanium quantum wells with hole mobility exceeding one million | [arXiv](https://arxiv.org/abs/2112.11860) [DOI](https://doi.org/10.1063/5.0083161) | <a href="https://arxiv.org/pdf/2112.11860">pdf</a>
+	2022 | A high-mobility hole bilayer in a germanium double quantum well | [arXiv](https://arxiv.org/abs/2201.06862) | <a href="https://arxiv.org/pdf/2201.06862">pdf</a>
+	2021 | Electrical control of the g-tensor of a single hole in a silicon MOS quantum dot | [arXiv](https://arxiv.org/abs/2012.04985) [DOI](https://doi.org/10.1103/PhysRevB.104.235303) | <a href="https://arxiv.org/pdf/2012.04985">pdf</a>
+	2021 | Single-Hole Pump in Germanium | [arXiv](https://arxiv.org/abs/2105.14864) [DOI](https://doi.org/10.1088/1361-6463/ac181d) | <a href="https://arxiv.org/pdf/2105.14864">pdf</a>
+	2021 | Enhancement of Proximity Induced Superconductivity in a Planar Ge Hole Gas | [arXiv](https://arxiv.org/abs/2012.00322) [DOI](https://doi.org/10.1103/PhysRevResearch.3.L022005) | <a href="https://arxiv.org/pdf/2012.00322">pdf</a>
+	2021 | Qubits made by advanced semiconductor manufacturing | [arXiv](https://arxiv.org/abs/2101.12650) [DOI](https://doi.org/10.1038/s41928-022-00727-9) | <a href="https://arxiv.org/pdf/2101.12650">pdf</a>
+	2020 | CMOS-based cryogenic control of silicon quantum circuits | [arXiv](https://arxiv.org/abs/2009.14185) [DOI](https://doi.org/10.1038/s41586-021-03469-4) | <a href="https://arxiv.org/pdf/2009.14185">pdf</a>
+	2020 | Effect of quantum Hall edge strips on valley splitting in silicon quantum wells | [arXiv](https://arxiv.org/abs/2006.02305) [DOI](https://doi.org/10.1103/PhysRevLett.125.186801) | <a href="https://arxiv.org/pdf/2006.02305">pdf</a>
+	2020 | A four-qubit germanium quantum processor | [arXiv](https://arxiv.org/abs/2009.04268) [DOI](https://doi.org/10.1038/s41586-021-03332-6) | <a href="https://arxiv.org/pdf/2009.04268">pdf</a>
+	2020 | A two-dimensional array of single-hole quantum dots | [arXiv](https://arxiv.org/abs/2008.11666) [DOI](https://doi.org/10.1063/5.0037330) | <a href="https://arxiv.org/pdf/2008.11666">pdf</a>
+	2020 | High-fidelity two-qubit gates in silicon above one Kelvin | [arXiv](https://arxiv.org/abs/2007.09034) | <a href="https://arxiv.org/pdf/2007.09034">pdf</a>
+	2020 | Low percolation density and charge noise with holes in germanium | [arXiv](https://arxiv.org/abs/2007.06328) [DOI](https://doi.org/10.1088/2633-4356/abcd82) | <a href="https://arxiv.org/pdf/2007.06328">pdf</a>
+	2020 | Spin relaxation benchmarks and individual qubit addressability for holes in quantum dots | [arXiv](https://arxiv.org/abs/2006.12563) [DOI](https://doi.org/10.1021/acs.nanolett.0c02589) | <a href="https://arxiv.org/pdf/2006.12563">pdf</a>
+	2020 | On-chip Integration of Si/SiGe-based Quantum Dots and Switched-capacitor Circuits | [arXiv](https://arxiv.org/abs/2005.03851) [DOI](https://doi.org/10.1063/5.0012883) | <a href="https://arxiv.org/pdf/2005.03851">pdf</a>
+	2020 | The germanium quantum information route | [arXiv](https://arxiv.org/abs/2004.08133) [DOI](https://doi.org/10.1038/s41578-020-00262-z) | <a href="https://arxiv.org/pdf/2004.08133">pdf</a>
+	2020 | Exchange coupling in a linear chain of three quantum-dot spin qubits in silicon | [arXiv](https://arxiv.org/abs/2004.07666) [DOI](https://doi.org/10.1021/acs.nanolett.0c04771) | <a href="https://arxiv.org/pdf/2004.07666">pdf</a>
+	2020 | Tunable coupling and isolation of single electrons in silicon metal-oxide-semiconductor quantum dots  | [arXiv](https://arxiv.org/abs/1907.08523) [DOI](https://doi.org/10.1021/acs.nanolett.9b03254) | <a href="https://arxiv.org/pdf/1907.08523">pdf</a>
+	2019 | A single-hole spin qubit | [arXiv](https://arxiv.org/abs/1912.10426) [DOI](https://doi.org/10.1038/s41467-020-17211-7) | <a href="https://arxiv.org/pdf/1912.10426">pdf</a>
+	2019 | A sparse spin qubit array with integrated control electronics | [arXiv](https://arxiv.org/abs/1912.06461) [DOI](https://doi.org/10.1109/IEDM19573.2019.8993570) | <a href="https://arxiv.org/pdf/1912.06461">pdf</a>
+	2019 | Universal quantum logic in hot silicon qubits | [arXiv](https://arxiv.org/abs/1910.05289) [DOI](https://doi.org/10.1038/s41586-020-2170-7) | <a href="https://arxiv.org/pdf/1910.05289">pdf</a>
+	2019 | Quantum Dot Arrays in Silicon and Germanium | [arXiv](https://arxiv.org/abs/1909.06575) [DOI](https://doi.org/10.1063/5.0002013) | <a href="https://arxiv.org/pdf/1909.06575">pdf</a>
+	2019 | Multiplexed quantum transport using commercial off-the-shelf CMOS at sub-kelvin temperatures | [arXiv](https://arxiv.org/abs/1907.11816) [DOI](https://doi.org/10.1038/s41534-020-0274-4) | <a href="https://arxiv.org/pdf/1907.11816">pdf</a>
+	2019 | Light effective hole mass in undoped Ge/SiGe quantum wells | [arXiv](https://arxiv.org/abs/1905.08064) [DOI](https://doi.org/10.1103/PhysRevB.100.041304) | <a href="https://arxiv.org/pdf/1905.08064">pdf</a>
+	2019 | Fast two-qubit logic with holes in germanium | [arXiv](https://arxiv.org/abs/1904.11443) [DOI](https://doi.org/10.1038/s41586-019-1919-3) | <a href="https://arxiv.org/pdf/1904.11443">pdf</a>
+	2019 | Quantum transport properties of industrial <sup>28</sup>Si/<sup>28</sup>SiO<sub>2</sub> | [arXiv](https://arxiv.org/abs/1810.06521) [DOI](https://doi.org/10.1103/PhysRevApplied.12.014013) | <a href="https://arxiv.org/pdf/1810.06521">pdf</a>
   </details>
 
 - <details><summary>Andrew Dzurak (UNSW, Diraq)</summary>
