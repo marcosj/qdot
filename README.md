@@ -55,6 +55,9 @@
 
 - <details><summary>Jason Petta (Princeton)</summary>
 
+	&emsp;[arXiv](https://arxiv.org/search/cond-mat?query=Jason+Petta&searchtype=author)
+	&emsp;[scholar](https://www.semanticscholar.org/author/J.-Petta/2201118?sort=pub-date)
+	&emsp;[scholar](https://scholar.google.com/citations?user=OxGfOMAAAAAJ&sortby=pubdate)
 	&emsp;[ORCID](https://orcid.org/0000-0002-6416-0789)
 
 	year | title | DOI | pdf | ppt
@@ -83,6 +86,9 @@
 
 - <details><summary>Lieven Vandersypen (Delft)</summary>
 
+	&emsp;[arXiv](https://arxiv.org/search/cond-mat?query=Lieven+Vandersypen&searchtype=author)
+	&emsp;[scholar](https://www.semanticscholar.org/author/L.-Vandersypen/144210033?sort=pub-date)
+	&emsp;[scholar](https://scholar.google.com/citations?user=76G4XCQAAAAJ&sortby=pubdate)
 	&emsp;[ORCID](https://orcid.org/0000-0003-4346-7877)
 
 	year | title | DOI | pdf | ppt
@@ -164,6 +170,9 @@
 
 - <details><summary>Andrew Dzurak (UNSW, Diraq)</summary>
 
+	&emsp;[arXiv](https://arxiv.org/search/cond-mat?query=Andrew+Dzurak&searchtype=author)
+	&emsp;[scholar](https://www.semanticscholar.org/author/A.-Dzurak/2769334?sort=pub-date)
+	&emsp;[scholar](https://scholar.google.com/citations?user=dEI9TsIAAAAJ&sortby=pubdate)
 	&emsp;[ORCID](https://orcid.org/0000-0003-1389-5096)
 
 	year | title | DOI | pdf | ppt
@@ -192,6 +201,9 @@
 
 - <details><summary>Andrea Morello (UNSW)</summary>
 
+	&emsp;[arXiv](https://arxiv.org/search/cond-mat?query=Andrea+Morello&searchtype=author)
+	&emsp;[scholar](https://www.semanticscholar.org/author/A.-Morello/145508119?sort=pub-date)
+	&emsp;[scholar](https://scholar.google.com/citations?user=_G8qcyEAAAAJ&sortby=pubdate)
 	&emsp;[ORCID](https://orcid.org/0000-0001-7445-699X)
 
 	year | title | DOI | pdf | ppt
@@ -220,6 +232,8 @@
 
 - <details><summary>Michelle Simmons (UNSW, Silicon QC)</summary>
 
+	&emsp;[arXiv](https://arxiv.org/search/cond-mat?query=M.+Y.+Simmons&searchtype=author)
+	&emsp;[scholar](https://www.semanticscholar.org/author/M.-Simmons/34735201?sort=pub-date)
 	&emsp;[ORCID](https://orcid.org/0000-0002-6422-5888)
 
 	year | title | DOI | pdf | ppt
@@ -242,6 +256,9 @@
 
 - <details><summary>John Morton (UCL, Quantum Motion)</summary>
 
+	&emsp;[arXiv](https://arxiv.org/search/cond-mat?query=J.+J.+L.+Morton&searchtype=author)
+	&emsp;[scholar](https://www.semanticscholar.org/author/J.-Morton/39860231?sort=pub-date)
+	&emsp;[scholar](https://scholar.google.com/citations?user=RcnAP38AAAAJ&sortby=pubdate)
 	&emsp;[ORCID](https://orcid.org/0000-0002-0891-1111)
 
 	year | title | DOI | pdf | ppt
@@ -257,6 +274,9 @@
 
 - <details><summary>Thaddeus Ladd (HRL team)</summary>
 
+	&emsp;[arXiv](https://arxiv.org/search/cond-mat?query=Thaddeus+Ladd&searchtype=author)
+	&emsp;[scholar](https://www.semanticscholar.org/author/T.-Ladd/3176527?sort=pub-date)
+	&emsp;[scholar](https://scholar.google.com/citations?user=cLoLAYcAAAAJ&sortby=pubdate)
 	&emsp;[ORCID](https://orcid.org/0000-0002-0373-0717)
 
 	year | title | DOI | pdf | ppt
@@ -266,6 +286,9 @@
 
 - <details><summary>Jim Harrington (HRL team)</summary>
 
+	&emsp;[arXiv](https://arxiv.org/search/cond-mat?query=Harrington%2C+J&searchtype=author)
+	&emsp;[scholar](https://www.semanticscholar.org/author/J.-Harrington/40653911?sort=pub-date)
+	&emsp;[scholar](https://scholar.google.com/citations?user=jrLPKn8AAAAJ&sortby=pubdate)
 	&emsp;[ORCID](https://orcid.org/0000-0001-8125-7251)
 
 	year | title | DOI | pdf | ppt
@@ -275,16 +298,9 @@
 
 - <details><summary>Cody Jones (HRL team)</summary>
 
+	&emsp;[arXiv](https://arxiv.org/search/cond-mat?query=Jones%2C+N+C&searchtype=author)
+	&emsp;[scholar](https://www.semanticscholar.org/author/N.-C.-Jones/31686035?sort=pub-date)
 	&emsp;[scholar](https://scholar.google.com/citations?user=jTPeVAEAAAAJ)
-
-	year | title | DOI | pdf | ppt
-	--- | --- | --- | --- | ---
-	2020 | title | [DOI](url) | <a href="https://arxiv.org/pdf/doi" target="_blank">pdf</a>
-  </details>
-
-- <details><summary>Intel team</summary>
-
-	Jim Clarke, Anne Matsuura, T. F. Watson, L. Lampert, H. C. George, R. Pillarisetty, S. A. Bojarski, P. Amin, E. M. Henry, R. Kotlyar, D. J. Michalak, B. K. Mueller, S. Neyens, J. Roberts, O. K. Zietz)
 
 	year | title | DOI | pdf | ppt
 	--- | --- | --- | --- | ---
@@ -293,7 +309,9 @@
 
 - <details><summary>Mark Eriksson (Wisconsin)</summary>
 
-	&emsp;[scholar](https://scholar.google.com/citations?user=laMrb-wAAAAJ)
+	&emsp;[arXiv](https://arxiv.org/search/cond-mat?query=Mark+A.+Eriksson&searchtype=author)
+	&emsp;[scholar](https://www.semanticscholar.org/author/M.-Eriksson/3400369?sort=pub-date)
+	&emsp;[scholar](https://scholar.google.com/citations?user=laMrb-wAAAAJ&sortby=pubdate)
 	&emsp;[ORCID](https://orcid.org/0000-0002-3130-9735)
 
 	year | title | DOI | pdf | ppt
@@ -323,6 +341,9 @@
 
 - <details><summary>David DiVincenzo (Aachen)</summary>
 
+	&emsp;[arXiv](https://arxiv.org/search/cond-mat?query=David+DiVincenzo&searchtype=author)
+	&emsp;[scholar](https://www.semanticscholar.org/author/D.-DiVincenzo/2804168?sort=pub-date)
+	&emsp;[scholar](https://scholar.google.com/citations?user=4kTctIoAAAAJ&sortby=pubdate)
 	&emsp;[ORCID](https://orcid.org/0000-0003-4332-645X)
 
 	year | title | DOI | pdf | ppt
@@ -339,6 +360,9 @@
 
 - <details><summary>Daniel Loss (IBM Zurich, RIKEN)</summary>
 
+	&emsp;[arXiv](https://arxiv.org/search/cond-mat?query=Daniel+Loss&searchtype=author)
+	&emsp;[scholar](https://www.semanticscholar.org/author/D.-Loss/144643670?sort=pub-date)
+	&emsp;[scholar](https://scholar.google.com/citations?user=ZnfLXOYAAAAJ&sortby=pubdate)
 	&emsp;[ORCID](https://orcid.org/0000-0001-5176-3073)
 
 	year | title | DOI | pdf | ppt
@@ -351,6 +375,9 @@
 
 - <details><summary>Barbara Terhal (Aachen, Delft)</summary>
 
+	&emsp;[arXiv](https://arxiv.org/search/cond-mat?query=Barbara+Terhal&searchtype=author)
+	&emsp;[scholar](https://www.semanticscholar.org/author/B.-Terhal/2094968?sort=pub-date)
+	&emsp;[scholar](https://scholar.google.com/citations?user=BuwmNwgAAAAJ&sortby=pubdate)
 	&emsp;[ORCID](https://orcid.org/0000-0003-0218-6614)
 
 	year | title | DOI | pdf | ppt
@@ -380,6 +407,9 @@
 
 - <details><summary>Simon Benjamin (Oxford)</summary>
 
+	&emsp;[arXiv](https://arxiv.org/search/cond-mat?query=Simon+C.+Benjamin&searchtype=author)
+	&emsp;[scholar](https://www.semanticscholar.org/author/S.-Benjamin/1864960?sort=pub-date)
+	&emsp;[scholar](https://scholar.google.com/citations?user=sshRUhAAAAAJ&sortby=pubdate)
 	&emsp;[ORCID](https://orcid.org/0000-0002-7766-5348)
 
 	year | title | DOI | pdf | ppt
@@ -400,7 +430,9 @@
 
 - <details><summary>Sophia Economou (Virginia Tech)</summary>
 
-	&emsp;[scholar](https://scholar.google.com/citations?user=60Wn3gYAAAAJ)
+	&emsp;[arXiv](https://arxiv.org/search/cond-mat?query=Sophia+Economou&searchtype=author)
+	&emsp;[scholar](https://www.semanticscholar.org/author/S.-Economou/34480391?sort=pub-date)
+	&emsp;[scholar](https://scholar.google.com/citations?user=60Wn3gYAAAAJ&sortby=pubdate)
 	&emsp;[ORCID](https://orcid.org/0000-0002-1939-5589)
 
 	year | title | DOI | pdf | ppt
