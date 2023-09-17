@@ -458,7 +458,7 @@
 	2019 | Enhancement of nuclear spin coherence times by driving dynamic nuclear polarization at defect centers in solids | [arXiv](https://arxiv.org/abs/1810.06542) [DOI](https://doi.org/10.1103/PhysRevB.99.205423) | <a href="https://arxiv.org/pdf/1810.06542">pdf</a>
 	2019 | A solvable quantum model of dynamic nuclear polarization in quantum dots | [arXiv](https://arxiv.org/abs/1811.10491) [DOI](https://doi.org/10.1103/PhysRevB.99.035439) | <a href="https://arxiv.org/pdf/1811.10491">pdf</a>
 	2019 | Stabilization and manipulation of multispin states in quantum-dot time crystals with Heisenberg interactions | [arXiv](https://arxiv.org/abs/1810.05781) [DOI](https://doi.org/10.1103/PhysRevB.99.035311) | <a href="https://arxiv.org/pdf/1810.05781">pdf</a>
-	  </details>
+  </details>
 
 </details>
 
