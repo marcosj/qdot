@@ -281,7 +281,7 @@
 
 	year | title | DOI | pdf | ppt
 	--- | --- | --- | --- | ---
-	2020 | title | [DOI](url) | <a href="https://arxiv.org/pdf/doi" target="_blank">pdf</a>
+	2019 | title | [arXiv](url) [DOI](url) | <a href="url">pdf</a>
   </details>
 
 - <details><summary>Jim Harrington (HRL team)</summary>
@@ -293,7 +293,7 @@
 
 	year | title | DOI | pdf | ppt
 	--- | --- | --- | --- | ---
-	2020 | title | [DOI](url) | <a href="https://arxiv.org/pdf/doi" target="_blank">pdf</a>
+	2019 | title | [arXiv](url) [DOI](url) | <a href="url">pdf</a>
   </details>
 
 - <details><summary>Cody Jones (HRL team)</summary>
@@ -304,7 +304,7 @@
 
 	year | title | DOI | pdf | ppt
 	--- | --- | --- | --- | ---
-	2020 | title | [DOI](url) | <a href="https://arxiv.org/pdf/doi" target="_blank">pdf</a>
+	2019 | title | [arXiv](url) [DOI](url) | <a href="url">pdf</a>
   </details>
 
 - <details><summary>Mark Eriksson (Wisconsin)</summary>
@@ -437,8 +437,28 @@
 
 	year | title | DOI | pdf | ppt
 	--- | --- | --- | --- | ---
-	2020 | title | [DOI](url) | <a href="https://arxiv.org/pdf/doi" target="_blank">pdf</a>
-  </details>
+	2023 | Time-crystalline behavior in central-spin models with Heisenberg interactions | [arXiv](https://arxiv.org/abs/2303.00893) | <a href="https://arxiv.org/pdf/2303.00893">pdf</a>
+	2023 | Quantum self-consistent equation-of-motion method for computing molecular excitation energies, ionization potentials, and electron affinities on a quantum computer | [arXiv](https://arxiv.org/abs/2206.10502) | <a href="https://arxiv.org/pdf/2206.10502">pdf</a>
+	2022 | Fast high-fidelity single-qubit gates for flip-flop qubits in silicon | [arXiv](https://arxiv.org/abs/2101.11592) [DOI](https://doi.org/10.1103/PhysRevB.106.165302) | <a href="https://arxiv.org/pdf/2101.11592">pdf</a>
+	2022 | Scaling adaptive quantum simulation algorithms via operator pool tiling | [arXiv](https://arxiv.org/abs/2206.14215) | <a href="https://arxiv.org/pdf/2206.14215">pdf</a>
+	2022 | Avoiding leakage and errors caused by unwanted transitions in Lambda systems | [arXiv](https://arxiv.org/abs/2205.06945) [DOI](https://doi.org/10.1103/PRXQuantum.4.030312) | <a href="https://arxiv.org/pdf/2205.06945">pdf</a>
+	2021 | Gate-free state preparation for fast variational quantum eigensolver simulations: ctrl-VQE | [arXiv](https://arxiv.org/abs/2008.04302) | <a href="https://arxiv.org/pdf/2008.04302">pdf</a>
+	2021 | Driven dynamics of a quantum dot electron spin coupled to bath of higher-spin nuclei | [arXiv](https://arxiv.org/abs/2012.07227) [DOI](https://doi.org/10.1103/PhysRevB.103.235301) | <a href="https://arxiv.org/pdf/2012.07227">pdf</a>
+	2021 | A multiconfigurational study of the negatively charged nitrogen-vacancy center in diamond | [arXiv](https://arxiv.org/abs/2008.10156) [DOI](https://doi.org/10.1103/PhysRevB.103.014115) | <a href="https://arxiv.org/pdf/2008.10156">pdf</a>
+	2021 | Protecting Quantum Information in Quantum Dot Spin Chains by Driving Exchange Interactions Periodically | [arXiv](https://arxiv.org/abs/2009.08469) [DOI](https://doi.org/10.1103/PhysRevB.103.245303) | <a href="https://arxiv.org/pdf/2009.08469">pdf</a>
+	2020 | Precise high-fidelity electron-nuclear spin entangling gates in NV centers via hybrid dynamical decoupling sequences | [arXiv](https://arxiv.org/abs/2002.01480) [DOI](https://doi.org/10.1088/1367-2630/ab9bc0) | <a href="https://arxiv.org/pdf/2002.01480">pdf</a>
+	2020 | Fast noise-resistant control of donor nuclear spin qubits in silicon | [arXiv](https://arxiv.org/abs/2001.10029) [DOI](https://doi.org/10.1103/PhysRevB.101.205307) | <a href="https://arxiv.org/pdf/2001.10029">pdf</a>
+	2020 | Toward long-range entanglement between electrically driven single-molecule magnets | [arXiv](https://arxiv.org/abs/1905.08944) [DOI](https://doi.org/10.1021/acs.jpclett.9b03131) | <a href="https://arxiv.org/pdf/1905.08944">pdf</a>
+	2021 | Quantum Simulators: Architectures and Opportunities | [arXiv](https://arxiv.org/abs/1912.06938) [DOI](https://doi.org/10.1103/PRXQuantum.2.017003) | <a href="https://arxiv.org/pdf/1912.06938">pdf</a>
+	2020 | Discrete time crystal in the gradient field Heisenberg model | [arXiv](https://arxiv.org/abs/1912.05130) [DOI](https://doi.org/10.1103/PhysRevB.101.115303) | <a href="https://arxiv.org/pdf/1912.05130">pdf</a>
+	2020 | Microwave-based Arbitrary CPHASE Gates for Transmon Qubits | [arXiv](https://arxiv.org/abs/1903.00969) [DOI](https://doi.org/10.1103/PhysRevB.101.054508) | <a href="https://arxiv.org/pdf/1903.00969">pdf</a>
+	2019 | Deterministic generation of large-scale entangled photonic cluster state from interacting solid state emitters | [arXiv](https://arxiv.org/abs/1801.02599) [DOI](https://doi.org/10.1103/PhysRevLett.123.070501) | <a href="https://arxiv.org/pdf/1801.02599">pdf</a>
+	2019 | An adaptive variational algorithm for exact molecular simulations on a quantum computer | [arXiv](https://arxiv.org/abs/1812.11173) [DOI](https://doi.org/10.1038/s41467-019-10988-2) | <a href="https://arxiv.org/pdf/1812.11173">pdf</a>
+	2019 | Fast high-fidelity entangling gates for spin qubits in Si double quantum dots | [arXiv](https://arxiv.org/abs/1902.02350) [DOI](https://doi.org/10.1103/PhysRevB.100.035304) | <a href="https://arxiv.org/pdf/1902.02350">pdf</a>
+	2019 | Enhancement of nuclear spin coherence times by driving dynamic nuclear polarization at defect centers in solids | [arXiv](https://arxiv.org/abs/1810.06542) [DOI](https://doi.org/10.1103/PhysRevB.99.205423) | <a href="https://arxiv.org/pdf/1810.06542">pdf</a>
+	2019 | A solvable quantum model of dynamic nuclear polarization in quantum dots | [arXiv](https://arxiv.org/abs/1811.10491) [DOI](https://doi.org/10.1103/PhysRevB.99.035439) | <a href="https://arxiv.org/pdf/1811.10491">pdf</a>
+	2019 | Stabilization and manipulation of multispin states in quantum-dot time crystals with Heisenberg interactions | [arXiv](https://arxiv.org/abs/1810.05781) [DOI](https://doi.org/10.1103/PhysRevB.99.035311) | <a href="https://arxiv.org/pdf/1810.05781">pdf</a>
+	  </details>
 
 </details>
 
