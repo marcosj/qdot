@@ -63,57 +63,36 @@
 
 	year | title | DOI | pdf | ppt
 	--- | --- | --- | --- | ---
-	2020 | Gating a Quantum Dot through the Sequential Removal of Single Electrons from a Nanoscale Floating Gate | [DOI](https://doi.org/10.1103/PRXQuantum.4.030309) | <a href="https://arxiv.org/pdf/PRXQuantum.4.030309">pdf</a>
-	2020 | Semiconductor spin qubits | [DOI](https://doi.org/10.1103/RevModPhys.95.025003) | <a href="https://arxiv.org/pdf/RevModPhys.95.025003">pdf</a>
-	2020 | Optimal Control of a Cavity-Mediated iSWAP Gate between Silicon Spin Qubits | [DOI](https://doi.org/10.1103/PhysRevApplied.18.064082) | <a href="https://arxiv.org/pdf/PhysRevApplied.18.064082">pdf</a>
-	2020 | High-Fidelity State Preparation, Quantum Control, and Readout of an Isotopically Enriched Silicon Spin Qubit | [DOI](https://doi.org/10.1103/PhysRevApplied.18.064028) | <a href="https://arxiv.org/pdf/PhysRevApplied.18.064028">pdf</a>
-	2020 | Microwave-Frequency Scanning Gate Microscopy of a Si/SiGe Double Quantum Dot | [DOI](https://doi.org/10.1021/acs.nanolett.2c01098) | <a href="https://arxiv.org/pdf/acs.nanolett.2c01098">pdf</a>
-	2020 | Two-qubit silicon quantum processor with operation fidelity exceeding 99% | [DOI](https://doi.org/10.1126/sciadv.abn5130) | <a href="https://arxiv.org/pdf/sciadv.abn5130">pdf</a>
-	2020 | Cryogen-free scanning gate microscope for the characterization of Si/Si0.7Ge0.3 quantum devices at milli-Kelvin temperatures | [DOI](https://doi.org/10.1063/5.0056648) | <a href="https://arxiv.org/pdf/5.0056648">pdf</a>
-	2020 | Nuclear Spin Readout in a Cavity-Coupled Hybrid Quantum Dot-Donor System | [DOI](https://doi.org/10.1103/PRXQuantum.2.020347) | <a href="https://arxiv.org/pdf/PRXQuantum.2.020347">pdf</a>
-	2020 | Spin Digitizer for High-Fidelity Readout of a Cavity-Coupled Silicon Triple Quantum Dot | [DOI](https://doi.org/10.1103/PhysRevApplied.15.044052) | <a href="https://arxiv.org/pdf/PhysRevApplied.15.044052">pdf</a>
-	2020 | Probing the Variation of the Intervalley Tunnel Coupling in a Silicon Triple Quantum Dot | [DOI](https://doi.org/10.1103/PRXQuantum.2.020309) | <a href="https://arxiv.org/pdf/PRXQuantum.2.020309">pdf</a>
-	2020 | Spin shuttling in a silicon double quantum dot | [DOI](https://doi.org/10.1103/PhysRevB.102.195418) | <a href="https://arxiv.org/pdf/PhysRevB.102.195418">pdf</a>
-	2020 | Coherent transport of spin by adiabatic passage in quantum dot arrays | [DOI](https://doi.org/10.1103/PhysRevB.102.155404) | <a href="https://arxiv.org/pdf/PhysRevB.102.155404">pdf</a>
-	2020 | Hybrid quantum systems with circuit quantum electrodynamics | [DOI](https://doi.org/10.1038/s41567-020-0797-9) | <a href="https://arxiv.org/pdf/s41567-020-0797-9">pdf</a>
-	2020 | Superconductor–semiconductor hybrid-circuit quantum electrodynamics | [DOI](https://doi.org/10.1038/s42254-019-0135-2) | <a href="https://arxiv.org/pdf/s42254-019-0135-2">pdf</a>
-	2020 | Flopping-mode electric dipole spin resonance | [DOI](https://doi.org/10.1103/PhysRevResearch.2.012006) | <a href="https://arxiv.org/pdf/PhysRevResearch.2.012006">pdf</a>
-	2020 | Coherent transfer of quantum information in a silicon double quantum dot using resonant SWAP gates | [DOI](https://doi.org/10.1038/s41534-019-0225-0) | <a href="https://arxiv.org/pdf/s41534-019-0225-0">pdf</a>
-	2020 | Computer-automated tuning procedures for semiconductor quantum dot arrays | [DOI](https://doi.org/10.1063/1.5121444) | <a href="https://arxiv.org/pdf/1.5121444">pdf</a>
-	2020 | Protocol for a resonantly driven three-qubit Toffoli gate with silicon spin qubits | [DOI](https://doi.org/10.1103/PhysRevB.100.085419) | <a href="https://arxiv.org/pdf/PhysRevB.100.085419">pdf</a>
-	2020 | Site-Selective Quantum Control in an Isotopically Enriched Si28/Si0.7Ge0.3 Quadruple Quantum Dot | [DOI](https://doi.org/10.1103/PhysRevApplied.11.061006) | <a href="https://arxiv.org/pdf/PhysRevApplied.11.061006">pdf</a>
-	2020 | Shuttling a single charge across a one-dimensional array of silicon quantum dots | [DOI](https://doi.org/10.1038/s41467-019-08970-z) | <a href="https://arxiv.org/pdf/s41467-019-08970-z">pdf</a>
-  </details>
-
-- <details><summary>Lieven Vandersypen (Delft)</summary>
-
-	&emsp;[arXiv](https://arxiv.org/search/cond-mat?query=Lieven+Vandersypen&searchtype=author&abstracts=hide)
-	&emsp;[scholar](https://www.semanticscholar.org/author/L.-Vandersypen/144210033?sort=pub-date)
-	&emsp;[scholar](https://scholar.google.com/citations?user=76G4XCQAAAAJ&sortby=pubdate)
-	&emsp;[ORCID](https://orcid.org/0000-0003-4346-7877)
-
-	year | title | DOI | pdf | ppt
-	--- | --- | --- | --- | ---
-	2020 | Shuttling an Electron Spin through a Silicon Quantum Dot Array | [DOI](https://doi.org/10.1103/PRXQuantum.4.030303) | <a href="https://arxiv.org/pdf/PRXQuantum.4.030303">pdf</a>
-	2020 | Nonlinear Response and Crosstalk of Electrically Driven Silicon Spin Qubits | [DOI](https://doi.org/10.1103/PhysRevApplied.19.044078) | <a href="https://arxiv.org/pdf/PhysRevApplied.19.044078">pdf</a>
-	2020 | Author Correction: Reducing charge noise in quantum dots by using thin silicon quantum wells | [DOI](https://doi.org/10.1038/s41467-023-37548-z) | <a href="https://arxiv.org/pdf/s41467-023-37548-z">pdf</a>
-	2020 | Probing the Jaynes-Cummings Ladder with Spin Circuit Quantum Electrodynamics | [DOI](https://doi.org/10.1103/PhysRevLett.130.137001) | <a href="https://arxiv.org/pdf/PhysRevLett.130.137001">pdf</a>
-	2020 | Reducing charge noise in quantum dots by using thin silicon quantum wells | [DOI](https://doi.org/10.1038/s41467-023-36951-w) | <a href="https://arxiv.org/pdf/s41467-023-36951-w">pdf</a>
-	2020 | Design and integration of single-qubit rotations and two-qubit gates in silicon above one Kelvin | [DOI](https://doi.org/10.1038/s43246-022-00304-9) | <a href="https://arxiv.org/pdf/s43246-022-00304-9">pdf</a>
-	2020 | Long-range electron-electron interactions in quantum dot systems and applications in quantum chemistry | [DOI](https://doi.org/10.1103/PhysRevResearch.4.033043) | <a href="https://arxiv.org/pdf/PhysRevResearch.4.033043">pdf</a>
-	2020 | Coherent Spin-Spin Coupling Mediated by Virtual Microwave Photons | [DOI](https://doi.org/10.1103/PhysRevX.12.021026) | <a href="https://arxiv.org/pdf/PhysRevX.12.021026">pdf</a>
-	2020 | Quantum logic with spin qubits crossing the surface code threshold | [DOI](https://doi.org/10.1038/s41586-021-04273-w) | <a href="https://arxiv.org/pdf/s41586-021-04273-w">pdf</a>
-	2020 | Quantum-coherent nanoscience | [DOI](https://doi.org/10.1038/s41565-021-00994-1) | <a href="https://arxiv.org/pdf/s41565-021-00994-1">pdf</a>
-	2020 | Quantum Simulation of Antiferromagnetic Heisenberg Chain with Gate-Defined Quantum Dots | [DOI](https://doi.org/10.1103/PhysRevX.11.041025) | <a href="https://arxiv.org/pdf/PhysRevX.11.041025">pdf</a>
-	2020 | Radio-Frequency Reflectometry in Silicon-Based Quantum Dots | [DOI](https://doi.org/10.1103/PhysRevApplied.16.014057) | <a href="https://arxiv.org/pdf/PhysRevApplied.16.014057">pdf</a>
-	2020 | Low percolation density and charge noise with holes in germanium | [DOI](https://doi.org/10.1088/2633-4356/abcd82) | <a href="https://arxiv.org/pdf/2633-4356">pdf</a>
-	2020 | Electron cascade for distant spin readout | [DOI](https://doi.org/10.1038/s41467-020-20388-6) | <a href="https://arxiv.org/pdf/s41467-020-20388-6">pdf</a>
-	2020 | On-Chip Microwave Filters for High-Impedance Resonators with Gate-Defined Quantum Dots | [DOI](https://doi.org/10.1103/PhysRevApplied.14.034025) | <a href="https://arxiv.org/pdf/PhysRevApplied.14.034025">pdf</a>
-	2020 | Efficient Orthogonal Control of Tunnel Couplings in a Quantum Dot Array | [DOI](https://doi.org/10.1103/PhysRevApplied.13.054018) | <a href="https://arxiv.org/pdf/PhysRevApplied.13.054018">pdf</a>
-	2020 | Universal quantum logic in hot silicon qubits | [DOI](https://doi.org/10.1038/s41586-020-2170-7) | <a href="https://arxiv.org/pdf/s41586-020-2170-7">pdf</a>
-	2020 | Ab initio exact diagonalization simulation of the Nagaoka transition in quantum dots | [DOI](https://doi.org/10.1103/PhysRevB.100.155133) | <a href="https://arxiv.org/pdf/PhysRevB.100.155133">pdf</a>
-	2020 | A new class of efficient randomized benchmarking protocols | [DOI](https://doi.org/10.1038/s41534-019-0182-7) | <a href="https://arxiv.org/pdf/s41534-019-0182-7">pdf</a>
-	2020 | Rapid gate-based spin read-out in silicon using an on-chip resonator | [DOI](https://doi.org/10.1038/s41565-019-0488-9) | <a href="https://arxiv.org/pdf/s41565-019-0488-9">pdf</a>
+	2023 | Analysis and mitigation of residual exchange coupling in linear spin qubit arrays | [arXiv](https://arxiv.org/abs/2308.11308) | <a href="https://arxiv.org/pdf/2308.11308">pdf</a>
+	2023 | Compressed gate characterization for quantum devices with time-correlated noise | [arXiv](https://arxiv.org/abs/2307.14432) | <a href="https://arxiv.org/pdf/2307.14432">pdf</a>
+	2023 | Cavity-mediated entanglement of parametrically driven spin qubits via sidebands  | [arXiv](https://arxiv.org/abs/2307.06067) | <a href="https://arxiv.org/pdf/2307.06067">pdf</a>
+	2023 | Developing high-impedance superconducting resonators and on-chip filters for semiconductor quantum dot circuit quantum electrodynamics | [arXiv](https://arxiv.org/abs/2306.16499) | <a href="https://arxiv.org/pdf/2306.16499">pdf</a>
+	2023 | Dispersive readout of a silicon quantum device using an atomic force microscope-based rf gate sensor | [arXiv](https://arxiv.org/abs/2305.05571) | <a href="https://arxiv.org/pdf/2305.05571">pdf</a>
+	2023 | Second Quantization: Gating a Quantum Dot Through the Sequential Removal of Single Electrons from a Nanoscale Floating Gate | [arXiv](https://arxiv.org/abs/2302.07949) [DOI](https://doi.org/10.1103/PRXQuantum.4.030309) | <a href="https://arxiv.org/pdf/2302.07949">pdf</a>
+	2022 | Optimal control of a cavity-mediated iSWAP gate between silicon spin qubits | [arXiv](https://arxiv.org/abs/2302.07949) [DOI](https://doi.org/10.1103/PhysRevApplied.18.064082) | <a href="https://arxiv.org/pdf/2208.11151">pdf</a>
+	2022 | High fidelity state preparation, quantum control, and readout of an isotopically enriched silicon spin qubit | [arXiv](https://arxiv.org/abs/2204.09551) [DOI](https://doi.org/10.1103/PhysRevApplied.18.064028) | <a href="https://arxiv.org/pdf/2204.09551">pdf</a>
+	2022 | Microwave-frequency scanning gate microscopy of a Si/SiGe double quantum dot | [arXiv](https://arxiv.org/abs/2203.05912) [DOI](https://doi.org/10.1021/acs.nanolett.2c01098) | <a href="https://arxiv.org/pdf/2203.05912">pdf</a>
+	2023 | Semiconductor Spin Qubits | [arXiv](https://arxiv.org/abs/2112.08863) [DOI](https://doi.org/10.1103/RevModPhys.95.025003) | <a href="https://arxiv.org/pdf/2112.08863">pdf</a>
+	2022 | Two-qubit silicon quantum processor with operation fidelity exceeding 99% | [arXiv](https://arxiv.org/abs/2112.08863) [DOI](https://doi.org/10.1126/sciadv.abn5130) | <a href="https://arxiv.org/pdf/2111.11937">pdf</a>
+	2021 | Nuclear spin readout in a cavity-coupled hybrid quantum dot-donor system | [arXiv](https://arxiv.org/abs/2012.01322) [DOI](https://doi.org/10.1103/PRXQuantum.2.020347) | <a href="https://arxiv.org/pdf/2012.01322">pdf</a>
+	2021 | Cryogen-free scanning gate microscope for the characterization of Si/Si<sub>0.7</sub>Ge<sub>0.3</sub> quantum devices at milli-Kelvin temperatures | [arXiv](https://arxiv.org/abs/2105.05684) [DOI](https://doi.org/10.1103/PhysRevApplied.15.044052) | <a href="https://arxiv.org/pdf/2105.05684">pdf</a>
+	2021 | Spin digitizer for high-fidelity readout of a cavity-coupled silicon triple quantum dot | [arXiv](https://arxiv.org/abs/2104.03862) [DOI](https://doi.org/10.1103/PhysRevApplied.15.044052) | <a href="https://arxiv.org/pdf/2104.03862">pdf</a>
+	2021 | Probing the Spatial Variation of the Inter-Valley Tunnel Coupling in a Silicon Triple Quantum Dot | [arXiv](https://arxiv.org/abs/2101.12594) [DOI](https://doi.org/10.1103/PRXQuantum.2.020309) | <a href="https://arxiv.org/pdf/2101.12594">pdf</a>
+	2020 | Coherent transport of spin by adiabatic passage in quantum dot arrays | [arXiv](https://arxiv.org/abs/2007.10582) [DOI](https://doi.org/10.1103/PhysRevB.102.155404) | <a href="https://arxiv.org/pdf/2007.10582.pdf">pdf</a>
+	2020 | Spin shuttling in a silicon double quantum dot | [arXiv](https://arxiv.org/abs/2007.03598) [DOI](https://doi.org/10.1103/PhysRevB.102.195418) | <a href="https://arxiv.org/pdf/2007.03598">pdf</a>
+	2020 | Split-Gate Cavity Coupler for Silicon Circuit Quantum Electrodynamics | [arXiv](https://arxiv.org/abs/2003.01088) [DOI](https://doi.org/10.1063/5.0006442) | <a href="https://arxiv.org/pdf/2003.01088">pdf</a>
+	2020 | Hybrid quantum systems with circuit quantum electrodynamics | [DOI](https://doi.org/10.1038/s41567-020-0797-9) [DOI](https://www-nature-com.ezproxy.sibdi.ucr.ac.cr/articles/s41567-020-0797-9) | <a href="https://www-nature-com.ezproxy.sibdi.ucr.ac.cr/articles/s41567-020-0797-9.pdf">pdf</a>
+	2019 | Electric-field control and noise protection of the flopping-mode spin qubit | [arXiv](https://arxiv.org/abs/1904.13117) [DOI](https://doi.org/10.1103/PhysRevB.100.125430) | <a href="https://arxiv.org/pdf/1904.13117">pdf</a>
+	2019 | Computer-automated tuning procedures for semiconductor quantum dot arrays | [arXiv](https://arxiv.org/abs/1907.10775) [DOI](https://doi.org/10.1063/1.5121444) | <a href="https://arxiv.org/pdf/1907.10775">pdf</a>
+	2019 | Coherent transfer of quantum information in silicon using resonant SWAP gates | [arXiv](https://arxiv.org/abs/1906.04512) [DOI](https://doi.org/10.1038/s41534-019-0225-0) | <a href="https://arxiv.org/pdf/1906.04512">pdf</a>
+	2019 | Protocol for a resonantly-driven three-qubit Toffoli gate with silicon spin qubits | [arXiv](https://arxiv.org/abs/1905.06756) [DOI](https://doi.org/10.1103/PhysRevB.100.085419) | <a href="https://arxiv.org/pdf/1905.06756">pdf</a>
+	2020 | Superconductor-semiconductor hybrid cavity quantum electrodynamics | [arXiv](https://arxiv.org/abs/1905.01155) [DOI](https://doi.org/10.1038/s42254-019-0135-2) | <a href="https://arxiv.org/pdf/1905.01155">pdf</a>
+	2020 | Long-Range Microwave Mediated Interactions Between Electron Spins | [arXiv](https://arxiv.org/abs/1905.00776) [DOI](https://doi.org/10.1038/s41586-019-1867-y) | <a href="https://arxiv.org/pdf/1905.00776">pdf</a>
+	2020 | Flopping-mode electric dipole spin resonance | [arXiv](https://arxiv.org/abs/1905.00346) [DOI](https://doi.org/10.1103/PhysRevResearch.2.012006) | <a href="https://arxiv.org/pdf/1905.00346">pdf</a>
+	2019 | Site-selective quantum control in an isotopically enriched 28Si/SiGe quadruple quantum dot | [arXiv](https://arxiv.org/abs/1903.05952) [DOI](https://doi.org/10.1103/PhysRevApplied.11.061006) | <a href="https://arxiv.org/pdf/1903.05952">pdf</a>
+	2019 | Optimized cavity-mediated dispersive two-qubit gates between spin qubits | [arXiv](https://arxiv.org/abs/1902.07649) [DOI](https://doi.org/10.1103/PhysRevB.100.081412) | <a href="https://arxiv.org/pdf/1902.07649">pdf</a>
+	2019 | Single-Spin Relaxation in a Synthetic Spin-Orbit Field | [arXiv](https://arxiv.org/abs/1811.00848) [DOI](https://doi.org/10.1103/PhysRevApplied.11.044063) | <a href="https://arxiv.org/pdf/1811.00848">pdf</a>
+	2019 | Shuttling a single charge across a one-dimensional array of silicon quantum dots | [arXiv](https://arxiv.org/abs/1809.03976) [DOI](https://doi.org/10.1038/s41467-019-08970-z) | <a href="https://arxiv.org/pdf/1809.03976">pdf</a>
   </details>
 
 - <details><summary>Menno Veldhorst (Delft)</summary>
@@ -167,6 +146,37 @@
 	2019 | Light effective hole mass in undoped Ge/SiGe quantum wells | [arXiv](https://arxiv.org/abs/1905.08064) [DOI](https://doi.org/10.1103/PhysRevB.100.041304) | <a href="https://arxiv.org/pdf/1905.08064">pdf</a>
 	2019 | Fast two-qubit logic with holes in germanium | [arXiv](https://arxiv.org/abs/1904.11443) [DOI](https://doi.org/10.1038/s41586-019-1919-3) | <a href="https://arxiv.org/pdf/1904.11443">pdf</a>
 	2019 | Quantum transport properties of industrial <sup>28</sup>Si/<sup>28</sup>SiO<sub>2</sub> | [arXiv](https://arxiv.org/abs/1810.06521) [DOI](https://doi.org/10.1103/PhysRevApplied.12.014013) | <a href="https://arxiv.org/pdf/1810.06521">pdf</a>
+  </details>
+
+- <details><summary>Lieven Vandersypen (Delft)</summary>
+
+	&emsp;[arXiv](https://arxiv.org/search/cond-mat?query=Lieven+Vandersypen&searchtype=author&abstracts=hide)
+	&emsp;[scholar](https://www.semanticscholar.org/author/L.-Vandersypen/144210033?sort=pub-date)
+	&emsp;[scholar](https://scholar.google.com/citations?user=76G4XCQAAAAJ&sortby=pubdate)
+	&emsp;[ORCID](https://orcid.org/0000-0003-4346-7877)
+
+	year | title | DOI | pdf | ppt
+	--- | --- | --- | --- | ---
+	2020 | Shuttling an Electron Spin through a Silicon Quantum Dot Array | [DOI](https://doi.org/10.1103/PRXQuantum.4.030303) | <a href="https://arxiv.org/pdf/PRXQuantum.4.030303">pdf</a>
+	2020 | Nonlinear Response and Crosstalk of Electrically Driven Silicon Spin Qubits | [DOI](https://doi.org/10.1103/PhysRevApplied.19.044078) | <a href="https://arxiv.org/pdf/PhysRevApplied.19.044078">pdf</a>
+	2020 | Author Correction: Reducing charge noise in quantum dots by using thin silicon quantum wells | [DOI](https://doi.org/10.1038/s41467-023-37548-z) | <a href="https://arxiv.org/pdf/s41467-023-37548-z">pdf</a>
+	2020 | Probing the Jaynes-Cummings Ladder with Spin Circuit Quantum Electrodynamics | [DOI](https://doi.org/10.1103/PhysRevLett.130.137001) | <a href="https://arxiv.org/pdf/PhysRevLett.130.137001">pdf</a>
+	2020 | Reducing charge noise in quantum dots by using thin silicon quantum wells | [DOI](https://doi.org/10.1038/s41467-023-36951-w) | <a href="https://arxiv.org/pdf/s41467-023-36951-w">pdf</a>
+	2020 | Design and integration of single-qubit rotations and two-qubit gates in silicon above one Kelvin | [DOI](https://doi.org/10.1038/s43246-022-00304-9) | <a href="https://arxiv.org/pdf/s43246-022-00304-9">pdf</a>
+	2020 | Long-range electron-electron interactions in quantum dot systems and applications in quantum chemistry | [DOI](https://doi.org/10.1103/PhysRevResearch.4.033043) | <a href="https://arxiv.org/pdf/PhysRevResearch.4.033043">pdf</a>
+	2020 | Coherent Spin-Spin Coupling Mediated by Virtual Microwave Photons | [DOI](https://doi.org/10.1103/PhysRevX.12.021026) | <a href="https://arxiv.org/pdf/PhysRevX.12.021026">pdf</a>
+	2020 | Quantum logic with spin qubits crossing the surface code threshold | [DOI](https://doi.org/10.1038/s41586-021-04273-w) | <a href="https://arxiv.org/pdf/s41586-021-04273-w">pdf</a>
+	2020 | Quantum-coherent nanoscience | [DOI](https://doi.org/10.1038/s41565-021-00994-1) | <a href="https://arxiv.org/pdf/s41565-021-00994-1">pdf</a>
+	2020 | Quantum Simulation of Antiferromagnetic Heisenberg Chain with Gate-Defined Quantum Dots | [DOI](https://doi.org/10.1103/PhysRevX.11.041025) | <a href="https://arxiv.org/pdf/PhysRevX.11.041025">pdf</a>
+	2020 | Radio-Frequency Reflectometry in Silicon-Based Quantum Dots | [DOI](https://doi.org/10.1103/PhysRevApplied.16.014057) | <a href="https://arxiv.org/pdf/PhysRevApplied.16.014057">pdf</a>
+	2020 | Low percolation density and charge noise with holes in germanium | [DOI](https://doi.org/10.1088/2633-4356/abcd82) | <a href="https://arxiv.org/pdf/2633-4356">pdf</a>
+	2020 | Electron cascade for distant spin readout | [DOI](https://doi.org/10.1038/s41467-020-20388-6) | <a href="https://arxiv.org/pdf/s41467-020-20388-6">pdf</a>
+	2020 | On-Chip Microwave Filters for High-Impedance Resonators with Gate-Defined Quantum Dots | [DOI](https://doi.org/10.1103/PhysRevApplied.14.034025) | <a href="https://arxiv.org/pdf/PhysRevApplied.14.034025">pdf</a>
+	2020 | Efficient Orthogonal Control of Tunnel Couplings in a Quantum Dot Array | [DOI](https://doi.org/10.1103/PhysRevApplied.13.054018) | <a href="https://arxiv.org/pdf/PhysRevApplied.13.054018">pdf</a>
+	2020 | Universal quantum logic in hot silicon qubits | [DOI](https://doi.org/10.1038/s41586-020-2170-7) | <a href="https://arxiv.org/pdf/s41586-020-2170-7">pdf</a>
+	2020 | Ab initio exact diagonalization simulation of the Nagaoka transition in quantum dots | [DOI](https://doi.org/10.1103/PhysRevB.100.155133) | <a href="https://arxiv.org/pdf/PhysRevB.100.155133">pdf</a>
+	2020 | A new class of efficient randomized benchmarking protocols | [DOI](https://doi.org/10.1038/s41534-019-0182-7) | <a href="https://arxiv.org/pdf/s41534-019-0182-7">pdf</a>
+	2020 | Rapid gate-based spin read-out in silicon using an on-chip resonator | [DOI](https://doi.org/10.1038/s41565-019-0488-9) | <a href="https://arxiv.org/pdf/s41565-019-0488-9">pdf</a>
   </details>
 
 - <details><summary>Andrew Dzurak (UNSW, Diraq)</summary>
