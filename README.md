@@ -418,25 +418,58 @@
 
 - <details><summary>Simon Benjamin (Oxford)</summary>
 
-	&emsp;[arXiv](https://arxiv.org/search/cond-mat?query=Simon+C.+Benjamin&searchtype=author&abstracts=hide)
+	&emsp;[arXiv](https://arxiv.org/search/cond-mat?query=Benjamin,+S&searchtype=author&abstracts=hide)
 	&emsp;[scholar](https://www.semanticscholar.org/author/S.-Benjamin/1864960?sort=pub-date)
 	&emsp;[scholar](https://scholar.google.com/citations?user=sshRUhAAAAAJ&sortby=pubdate)
 	&emsp;[ORCID](https://orcid.org/0000-0002-7766-5348)
 
 	year | title | DOI | pdf | ppt
 	--- | --- | --- | --- | ---
-	2020 | Hybrid Quantum-Classical Algorithms and Quantum Error Mitigation | [DOI](https://doi.org/10.7566/jpsj.90.032001) | <a href="https://arxiv.org/pdf/jpsj.90.032001">pdf</a>
-	2020 | The prospects of quantum computing in computational molecular biology | [DOI](https://doi.org/10.1002/wcms.1481) | <a href="https://arxiv.org/pdf/wcms.1481">pdf</a>
-	2020 | Variational-state quantum metrology | [DOI](https://doi.org/10.1088/1367-2630/ab965e) | <a href="https://arxiv.org/pdf/1367-2630">pdf</a>
-	2020 | QuESTlink—Mathematica embiggened by a hardware-optimised quantum emulator | [DOI](https://doi.org/10.1088/2058-9565/ab8506) | <a href="https://arxiv.org/pdf/2058-9565">pdf</a>
-	2020 | Quantum computational chemistry | [DOI](https://doi.org/10.1103/revmodphys.92.015003) | <a href="https://arxiv.org/pdf/revmodphys.92.015003">pdf</a>
-	2020 | Mitigating coherent noise using Pauli conjugation | [DOI](https://doi.org/10.1038/s41534-019-0233-0) | <a href="https://arxiv.org/pdf/s41534-019-0233-0">pdf</a>
-	2020 | A Silicon Surface Code Architecture Resilient Against Leakage Errors | [DOI](https://doi.org/10.22331/q-2019-12-09-212) | <a href="https://arxiv.org/pdf/q-2019-12-09-212">pdf</a>
-	2020 | High-Threshold Code for Modular Hardware With Asymmetric Noise | [DOI](https://doi.org/10.1103/physrevapplied.12.064006) | <a href="https://arxiv.org/pdf/physrevapplied.12.064006">pdf</a>
-	2020 | Theory of variational quantum simulation | [DOI](https://doi.org/10.22331/q-2019-10-07-191) | <a href="https://arxiv.org/pdf/q-2019-10-07-191">pdf</a>
-	2020 | Variational ansatz-based quantum simulation of imaginary time evolution | [DOI](https://doi.org/10.1038/s41534-019-0187-2) | <a href="https://arxiv.org/pdf/s41534-019-0187-2">pdf</a>
-	2020 | Constructing Smaller Pauli Twirling Sets for Arbitrary Error Channels | [DOI](https://doi.org/10.1038/s41598-019-46722-7) | <a href="https://arxiv.org/pdf/s41598-019-46722-7">pdf</a>
-	2020 | QuEST and High Performance Simulation of Quantum Computers | [DOI](https://doi.org/10.1038/s41598-019-47174-9) | <a href="https://arxiv.org/pdf/s41598-019-47174-9">pdf</a>
+	2023 | HamLib: A library of Hamiltonians for benchmarking quantum algorithms and hardware | [arXiv](https://arxiv.org/abs/2306.13126) | <a href="https://arxiv.org/pdf/2306.13126">pdf</a>
+	2023 | Adaptive surface code for quantum error correction in the presence of temporary or permanent defects | [arXiv](https://arxiv.org/abs/2211.08468) [DOI](https://doi.org/10.22331/q-2023-07-25-1065) | <a href="https://arxiv.org/pdf/2211.08468">pdf</a>
+	2023 | Quantum Error Mitigation | [arXiv](https://arxiv.org/abs/2210.00921) | <a href="https://arxiv.org/pdf/2210.00921">pdf</a>
+	2023 | Quantum computing is scalable on a planar array of qubits with fabrication defects | [arXiv](https://arxiv.org/abs/2111.06432) | <a href="https://arxiv.org/pdf/2111.06432">pdf</a>
+	2023 | The Virtual Quantum Device (VQD): A tool for detailed emulation of quantum computers | [arXiv](https://arxiv.org/abs/2306.07342) | <a href="https://arxiv.org/pdf/2306.07342">pdf</a>
+	2023 | Pipeline quantum processor architecture for silicon spin qubits | [arXiv](https://arxiv.org/abs/2306.07673) | <a href="https://arxiv.org/pdf/2306.07673">pdf</a>
+	2023 | Strictly local Union-Find | [arXiv](https://arxiv.org/abs/2305.18534) | <a href="https://arxiv.org/pdf/2305.18534">pdf</a>
+	2023 | Probabilistic Interpolation of Quantum Rotation Angles | [arXiv](https://arxiv.org/abs/2305.19881) | <a href="https://arxiv.org/pdf/2305.19881">pdf</a>
+	2023 | Grid-based methods for chemistry simulations on a quantum computer | [arXiv](https://arxiv.org/abs/2202.05864) [DOI](https://doi.org/10.1126/sciadv.abo7484) | <a href="https://arxiv.org/pdf/2202.05864">pdf</a>
+	2023 | A Herculean task: Classical simulation of quantum computers | [arXiv](https://arxiv.org/abs/2302.08880) | <a href="https://arxiv.org/pdf/2302.08880">pdf</a>
+	2023 | Looped Pipelines Enabling Effective 3D Qubit Lattices in a Strictly 2D Device | [arXiv](https://arxiv.org/abs/2203.13123) | <a href="https://arxiv.org/pdf/2203.13123">pdf</a>
+	2022 | Resource-frugal Hamiltonian eigenstate preparation via repeated quantum phase estimation measurements | [arXiv](https://arxiv.org/abs/2212.00846) | <a href="https://arxiv.org/pdf/2212.00846">pdf</a>
+	2022 | Exploiting subspace constraints and ab initio variational methods for quantum chemistry | [arXiv](https://arxiv.org/abs/2206.11246) [DOI](https://doi.org/10.1088/1367-2630/ace182) | <a href="https://arxiv.org/pdf/2206.11246">pdf</a>
+	2022 | Multicore Quantum Computing | [arXiv](https://arxiv.org/abs/2201.08861) [DOI](https://doi.org/10.1103/PhysRevApplied.18.044064) | <a href="https://arxiv.org/pdf/2201.08861">pdf</a>
+	2022 | Quantum natural gradient generalised to noisy and non-unitary circuits | [arXiv](https://arxiv.org/abs/1912.08660) [DOI](https://doi.org/10.1103/PhysRevA.106.062416) | <a href="https://arxiv.org/pdf/1912.08660">pdf</a>
+	2022 | Exploring ab initio machine synthesis of quantum circuits | [arXiv](https://arxiv.org/abs/2206.11245) [DOI](https://doi.org/10.1088/1367-2630/ace077) | <a href="https://arxiv.org/pdf/2206.11245">pdf</a>
+	2022 | Quantum Analytic Descent | [arXiv](https://arxiv.org/abs/2008.13774) [DOI](https://doi.org/10.1103/PhysRevResearch.4.023017) | <a href="https://arxiv.org/pdf/2008.13774">pdf</a>
+	2022 | Robust quantum compilation and circuit optimisation via energy minimisation | [arXiv](https://arxiv.org/abs/1811.03147) [DOI](https://doi.org/10.22331/q-2022-01-24-628) | <a href="https://arxiv.org/pdf/1811.03147">pdf</a>
+	2022 | Tailoring Term Truncations for Electronic Structure Calculations Using a Linear Combination of Unitaries | [arXiv](https://arxiv.org/abs/2007.11624) [DOI](https://doi.org/10.22331/q-2022-02-02-637) | <a href="https://arxiv.org/pdf/2007.11624">pdf</a>
+	2021 | Variational algorithms for linear algebra | [arXiv](https://arxiv.org/abs/1909.03898) [DOI](https://doi.org/10.1016/j.scib.2021.06.023) | <a href="https://arxiv.org/pdf/1909.03898">pdf</a>
+	2021 | Variational Quantum Algorithms | [arXiv](https://arxiv.org/abs/2012.09265) [DOI](https://doi.org/10.1038/s42254-021-00348-9) | <a href="https://arxiv.org/pdf/2012.09265">pdf</a>
+	2021 | Investigating the potential for a limited quantum speedup on protein lattice problems | [arXiv](https://arxiv.org/abs/2004.01118) [DOI](https://doi.org/10.1088/1367-2630/ac29ff) | <a href="https://arxiv.org/pdf/2004.01118">pdf</a>
+	2021 | Variational circuit compiler for quantum error correction | [arXiv](https://arxiv.org/abs/1911.05759) [DOI](https://doi.org/10.1103/PhysRevApplied.15.034068) | <a href="https://arxiv.org/pdf/1911.05759">pdf</a>
+	2021 | Learning-based quantum error mitigation | [arXiv](https://arxiv.org/abs/2005.07601) [DOI](https://doi.org/10.1103/PRXQuantum.2.040330) | <a href="https://arxiv.org/pdf/2005.07601">pdf</a>
+	2022 | Experimental exploration of five-qubit quantum error correcting code with superconducting qubits | [arXiv](https://arxiv.org/abs/1907.04507) [DOI](https://doi.org/10.1093/nsr/nwab011) | <a href="https://arxiv.org/pdf/1907.04507">pdf</a>
+	2021 | Hybrid quantum-classical algorithms and quantum error mitigation | [arXiv](https://arxiv.org/abs/2011.01382) [DOI](https://doi.org/10.7566/jpsj.90.032001) | <a href="https://arxiv.org/pdf/2011.01382">pdf</a>
+	2020 | Variational quantum simulation of general processes | [arXiv](https://arxiv.org/abs/1812.08778) [DOI](https://doi.org/10.1103/PhysRevLett.125.010501) | <a href="https://arxiv.org/pdf/1812.08778">pdf</a>
+	2020 | The prospects of quantum computing in computational molecular biology | [arXiv](https://arxiv.org/abs/2005.12792) [DOI](https://doi.org/10.1002/wcms.1481) | <a href="https://arxiv.org/pdf/2005.12792">pdf</a>
+	2020 | QuESTlink -- Mathematica embiggened by a hardware-optimised quantum emulator | [arXiv](https://arxiv.org/abs/1912.07904) [DOI](https://doi.org/10.1088/2058-9565/ab8506) | <a href="https://arxiv.org/pdf/1912.07904">pdf</a>
+	2020 | Variational-state quantum metrology | [arXiv](https://arxiv.org/abs/1908.08904) [DOI](https://doi.org/10.1088/1367-2630/ab965e) | <a href="https://arxiv.org/pdf/1908.08904">pdf</a>
+	2020 | Quantum computational chemistry | [arXiv](https://arxiv.org/abs/1808.10402) [DOI](https://doi.org/10.1103/RevModPhys.92.015003) | <a href="https://arxiv.org/pdf/1808.10402">pdf</a>
+	2019 | Digital quantum simulation of molecular vibrations | [arXiv](https://arxiv.org/abs/1811.04069) [DOI](https://doi.org/10.1039/c9sc01313j) | <a href="https://arxiv.org/pdf/1811.04069">pdf</a>
+	2019 | A Silicon Surface Code Architecture Resilient Against Leakage Errors | [arXiv](https://arxiv.org/abs/1904.10378) [DOI](https://doi.org/10.22331/q-2019-12-09-212) | <a href="https://arxiv.org/pdf/1904.10378">pdf</a>
+	2019 | Fault-tolerant protection of near-term trapped-ion topological qubits under realistic noise sources | [arXiv](https://arxiv.org/abs/1810.09199) [DOI](https://doi.org/10.1103/PhysRevA.100.062307) | <a href="https://arxiv.org/pdf/1810.09199">pdf</a>
+	2019 | Mitigating coherent noise using Pauli conjugation | [arXiv](https://arxiv.org/abs/1906.06270) [DOI](https://doi.org/10.1038/s41534-019-0233-0) | <a href="https://arxiv.org/pdf/1906.06270">pdf</a>
+	2019 | Theory of variational quantum simulation | [arXiv](https://arxiv.org/abs/1812.08767) [DOI](https://doi.org/10.22331/q-2019-10-07-191) | <a href="https://arxiv.org/pdf/1812.08767">pdf</a>
+	2019 | Variational ansatz-based quantum simulation of imaginary time evolution | [arXiv](https://arxiv.org/abs/1804.03023) [DOI](https://doi.org/10.1038/s41534-019-0187-2) | <a href="https://arxiv.org/pdf/1804.03023">pdf</a>
+	2019 | Error-mitigated digital quantum simulation | [arXiv](https://arxiv.org/abs/1807.02467) [DOI](https://doi.org/10.1103/PhysRevLett.122.180501) | <a href="https://arxiv.org/pdf/1807.02467">pdf</a>
+	2019 | Demonstration of Adiabatic Variational Quantum Computing with a Superconducting Quantum Coprocessor | [arXiv](https://arxiv.org/abs/1905.03150) [DOI](https://doi.org/10.1103/PhysRevLett.125.180501) | <a href="https://arxiv.org/pdf/1905.03150">pdf</a>
+	2019 | A high threshold code for modular hardware with asymmetric noise | [arXiv](https://arxiv.org/abs/1812.01505) [DOI](https://doi.org/10.1103/PhysRevApplied.12.064006) | <a href="https://arxiv.org/pdf/1812.01505">pdf</a>
+	2019 | QuEST and High Performance Simulation of Quantum Computers | [arXiv](https://arxiv.org/abs/1802.08032) [DOI](https://doi.org/10.1038/s41598-019-47174-9) | <a href="https://arxiv.org/pdf/1802.08032">pdf</a>
+	2019 | Network architecture for a topological quantum computer in silicon | [arXiv](https://arxiv.org/abs/1807.09941) [DOI](https://doi.org/10.1088/2058-9565/aaf3c4) | <a href="https://arxiv.org/pdf/1807.09941">pdf</a>
+	2019 | Mitigating algorithmic errors in Hamiltonian simulation | [arXiv](https://arxiv.org/abs/1808.03623) [DOI](https://doi.org/10.1103/PhysRevA.99.012334) | <a href="https://arxiv.org/pdf/1808.03623">pdf</a>
+	2019 | Variational quantum algorithms for discovering Hamiltonian spectra | [arXiv](https://arxiv.org/abs/1806.05707) [DOI](https://doi.org/10.1103/PhysRevA.99.062304) | <a href="https://arxiv.org/pdf/1806.05707">pdf</a>
+	2018 | An integrity measure to benchmark quantum error correcting memories | [arXiv](https://arxiv.org/abs/1707.09951) [DOI](https://https://iopscience.iop.org/article/10.1088/1367-2630/aaa372/meta) | <a href="https://arxiv.org/pdf/1707.09951">pdf</a> <a href="https://iopscience.iop.org/article/10.1088/1367-2630/aaa372/pdf">pdf</a>
   </details>
 
 - <details><summary>Sophia Economou (Virginia Tech)</summary>
