@@ -35,7 +35,7 @@
 	2022 | Real-time observation of charge-spin cooperative dynamics driven by a nonequilibrium phonon environment | [arXiv](https://arxiv.org/abs/2106.01576) [DOI](https://doi.org/10.1103/PhysRevLett.129.095901) | <a href="https://arxiv.org/pdf/2106.01576">pdf</a>
 	2021 | Real-Time Feedback Control of Charge Sensing for Quantum Dot Qubits | [arXiv](https://arxiv.org/abs/2103.15258) [DOI](https://doi.org/10.1103/PhysRevApplied.15.L031003) | <a href="https://arxiv.org/pdf/2103.15258">pdf</a>
 	2021 | Gate voltage dependence of noise distribution in radio-frequency reflectometry in gallium arsenide quantum dots | [arXiv](https://arxiv.org/abs/2012.04177) [DOI](https://doi.org/10.35848/1882-0786/abe41f) | <a href="https://arxiv.org/pdf/2012.04177">pdf</a>
-	2021 | Quantum tomography of an entangled three-qubit state in silicon | [arXiv](https://arxiv.org/abs/2010.10316) [DOI](https://doi.org/10.1103/s41565-021-00925-0) | <a href="https://arxiv.org/pdf/2010.10316">pdf</a>| <a href="ppt/2010.10316.html">ppt</a>
+	2021 | Quantum tomography of an entangled three-qubit state in silicon | [arXiv](https://arxiv.org/abs/2010.10316) [DOI](https://doi.org/10.1103/s41565-021-00925-0) | <a href="https://arxiv.org/pdf/2010.10316">pdf</a> | <a href="ppt/2010.10316.html">ppt</a>
 	2020 | Half-Integer Shapiro Steps in a Short Ballistic InAs Nanowire Josephson Junction | [arXiv](https://arxiv.org/abs/2004.14039) [DOI](https://doi.org/10.1103/PhysRevResearch.2.033435) | <a href="https://arxiv.org/pdf/2004.14039">pdf</a>
 	2020 | Spin orbit field in a physically defined p type MOS silicon double quantum dot | [arXiv](https://arxiv.org/abs/2003.07079) [DOI](https://doi.org/10.48550/arXiv.2003.07079) | <a href="https://arxiv.org/pdf/2003.07079">pdf</a>
 	2020 | Coherence of a driven electron spin qubit actively decoupled from quasi-static noise | [arXiv](https://arxiv.org/abs/2001.02884) [DOI](https://doi.org/10.1103/PhysRevX.10.011060) | <a href="https://arxiv.org/pdf/2001.02884">pdf</a>
@@ -469,7 +469,7 @@
 	2019 | Network architecture for a topological quantum computer in silicon | [arXiv](https://arxiv.org/abs/1807.09941) [DOI](https://doi.org/10.1088/2058-9565/aaf3c4) | <a href="https://arxiv.org/pdf/1807.09941">pdf</a>
 	2019 | Mitigating algorithmic errors in Hamiltonian simulation | [arXiv](https://arxiv.org/abs/1808.03623) [DOI](https://doi.org/10.1103/PhysRevA.99.012334) | <a href="https://arxiv.org/pdf/1808.03623">pdf</a>
 	2019 | Variational quantum algorithms for discovering Hamiltonian spectra | [arXiv](https://arxiv.org/abs/1806.05707) [DOI](https://doi.org/10.1103/PhysRevA.99.062304) | <a href="https://arxiv.org/pdf/1806.05707">pdf</a>
-	2018 | An integrity measure to benchmark quantum error correcting memories | [arXiv](https://arxiv.org/abs/1707.09951) [DOI](https://https://iopscience.iop.org/article/10.1088/1367-2630/aaa372/meta) | <a href="https://arxiv.org/pdf/1707.09951">pdf</a> <a href="https://iopscience.iop.org/article/10.1088/1367-2630/aaa372/pdf">pdf</a>
+	2018 | An integrity measure to benchmark quantum error correcting memories | [arXiv](https://arxiv.org/abs/1707.09951) [DOI](https://https://iopscience.iop.org/article/10.1088/1367-2630/aaa372/meta) | <a href="https://arxiv.org/pdf/1707.09951">pdf</a> <a href="https://iopscience.iop.org/article/10.1088/1367-2630/aaa372/pdf">pdf</a> | <a href="ppt/1707.09951.html">ppt</a>
   </details>
 
 - <details><summary>Sophia Economou (Virginia Tech)</summary>
