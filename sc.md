@@ -12,4 +12,11 @@
 
 </details>
 
+<details><summary><big>Color codes</big></summary>
+
+year | title | DOI | pdf | ppt
+--- | --- | --- | --- | ---
+2014 | Quantum computing by color-code lattice surgery | [DOI](https://arxiv.org/abs/1407.5103) | <a href="https://arxiv.org/pdf/1407.5103">pdf</a> | <a href="ppt/1407.5103.html">ppt</a>
+</details>
+
 [Silicon qubits](README.md)
