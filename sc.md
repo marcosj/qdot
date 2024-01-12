@@ -20,22 +20,28 @@ year | title | DOI | pdf | ppt
 </details>
 
 <details><summary><big>QEC23</big></summary>
+
 [videos](https://www.youtube.com/@QEC23/videos)
 
-(Natalie Brown (Quantinuum, ions))[https://www.youtube.com/watch?v=Z-lXlGigdn4]
-(Dolev Bluvstein (Harvard, neutral atoms))[https://www.youtube.com/watch?v=g8TMpaMBMa4]
-(Michael Newman (Google, superconductors))[https://www.youtube.com/watch?v=vFLjOUXVQp8]
+[Natalie Brown (Quantinuum, ions)47](https://www.youtube.com/watch?v=Z-lXlGigdn4)
 
-(Shruti Puri (Yale))[https://www.youtube.com/watch?v=A_l52nyT5qQ]
-(Mingyu Kang (Duke, ions))[https://www.youtube.com/watch?v=w9lsirxfXXs]
+[Dolev Bluvstein (Harvard, neutral atoms)44](https://www.youtube.com/watch?v=g8TMpaMBMa4)
 
-(Matt McEwen (Google))[https://www.youtube.com/watch?v=FuP1exdZJkg]
+[Michael Newman (Google, superconductors)44](https://www.youtube.com/watch?v=vFLjOUXVQp8)
 
-(Juan Pablo Bonilla (Harvard))[https://www.youtube.com/watch?v=rBuKW87xrag]
-(Tomas Jochym-O’Connor (IBM))[https://www.youtube.com/watch?v=7W8HHfJwysw]
+[Shruti Puri (Yale)46](https://www.youtube.com/watch?v=A_l52nyT5qQ)
 
-(Craig Gidney (Google))[https://www.youtube.com/watch?v=j4W5nNrYGKk]
-(Daniel Litinski (PsiQuantum))[https://www.youtube.com/watch?v=A3d_IpqkEF0]
+[Mingyu Kang (Duke, ions)27](https://www.youtube.com/watch?v=w9lsirxfXXs)
+
+[Matt McEwen (Google)34](https://www.youtube.com/watch?v=FuP1exdZJkg)
+
+[Juan Pablo Bonilla (Harvard)31](https://www.youtube.com/watch?v=rBuKW87xrag)
+
+[Tomas Jochym-O’Connor (IBM)30](https://www.youtube.com/watch?v=7W8HHfJwysw)
+
+[Craig Gidney (Google)36](https://www.youtube.com/watch?v=j4W5nNrYGKk)
+
+[Daniel Litinski (PsiQuantum)35](https://www.youtube.com/watch?v=A3d_IpqkEF0)
 
 year | title | DOI | pdf | ppt
 --- | --- | --- | --- | ---
