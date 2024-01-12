@@ -45,12 +45,12 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 
 .reveal-viewport {
   background: #191970;
-  background: -moz-radial-gradient(center, circle cover, #f7fbfc 0%, #191970 100%);
-  background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, #f7fbfc), color-stop(100%, #191970));
-  background: -webkit-radial-gradient(center, circle cover, #f7fbfc 0%, #191970 100%);
-  background: -o-radial-gradient(center, circle cover, #f7fbfc 0%, #191970 100%);
-  background: -ms-radial-gradient(center, circle cover, #f7fbfc 0%, #191970 100%);
-  background: radial-gradient(center, circle cover, #f7fbfc 0%, #191970 100%);
+  background: -moz-radial-gradient(center, circle cover, #ADD8E6 0%, #191970 100%);
+  background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, #ADD8E6), color-stop(100%, #191970));
+  background: -webkit-radial-gradient(center, circle cover, #ADD8E6 0%, #191970 100%);
+  background: -o-radial-gradient(center, circle cover, #ADD8E6 0%, #191970 100%);
+  background: -ms-radial-gradient(center, circle cover, #ADD8E6 0%, #191970 100%);
+  background: radial-gradient(center, circle cover, #ADD8E6 0%, #191970 100%);
   background-color: var(--r-background-color);
 }
 
@@ -123,6 +123,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
  * OTHER
  *********************************************/
 .reveal p {
+  color: var(--r-heading-color);
   margin: var(--r-block-margin) 0;
   line-height: 1.3;
 }
